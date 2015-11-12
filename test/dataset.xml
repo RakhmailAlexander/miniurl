@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<dataset>
+    <table name="url_table">
+        <column>id</column>
+        <column>url</column>
+        <column>user_url</column>
+        <column>expiry_date</column>
+        <row>
+            <value>1</value>
+            <value>http://yandex.ru</value>
+            <value>ya</value>
+            <value>0000-00-00 00:00:00</value>
+        </row>
+        <row>
+            <value>2</value>
+            <value>http://google.com</value>
+            <value>go</value>
+            <value>0000-00-00 00:00:00</value>
+        </row>
+    </table>
+</dataset>
